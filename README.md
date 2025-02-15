@@ -1,7 +1,7 @@
 # Testinium Automation - API Test Project
 
 ## Overview
-This project is an API test automation framework for Trello, built using Java and TestNG with Maven. It includes API tests to validate Trello's functionalities.
+This project is an API test automation framework for Trello, built using Java with Maven. It includes API tests to validate Trello's functionalities with RestAssured, Log4j libraries.
 
 ## Prerequisites
 Ensure you have the following installed:
