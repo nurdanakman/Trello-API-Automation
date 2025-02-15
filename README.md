@@ -25,19 +25,16 @@ Ensure you have the following installed:
 
 ## Configuration
 - Set up the `.env` file with the required API credentials.
-- Update `src/main/resources/config.properties` for test configurations.
 
 ## Running Tests
 To execute tests, use:
 ```sh
 mvn test
 ```
-Logs are stored in `logs/app.log`.
 
 ## Project Structure
 ```
-Testinium-Automation/
-  ├── test-v2/
+  ├── Trello-API-Automation/
   │   ├── src/main/java/com/example/trello/       # API client
   │   ├── src/test/java/com/example/trello/       # Test cases
   │   ├── logs/                                   # Logs directory
