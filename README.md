@@ -25,6 +25,7 @@ Ensure you have the following installed:
 
 ## Configuration
 - Set up the `.env` file with the required API credentials.
+- Logs are stored in `logs/app.log`.
 
 ## Running Tests
 To execute tests, use:
