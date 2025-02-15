@@ -12,11 +12,11 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/nurdanakman/Trello-API-Automation.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Testinium-Automation/test-v2
+   cd Trello-API-Automation
    ```
 3. Install dependencies using Maven:
    ```sh
@@ -43,14 +43,7 @@ Testinium-Automation/
   │   ├── logs/                                   # Logs directory
   │   ├── pom.xml                                 # Maven configuration
   │   ├── .env                                    # Environment variables
-  │   ├── .idea/                                  # IDE configuration files
 ```
 
 ## Reporting
 After running tests, reports will be generated in `target/surefire-reports`.
-
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Feel free to submit issues and pull requests.
