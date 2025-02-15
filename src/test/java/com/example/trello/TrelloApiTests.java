@@ -30,15 +30,19 @@ public class TrelloApiTests {
         logger.info("A board is created. Board ID: " + boardId + " and " + boardName);
     }
 
-    @Test
+   @Test
     @Order(2)
     @DisplayName("Create two cards on the board")
     public void createCards() {
         String firstCardName = "First Card";
         String secondCardName = "Second Card";
-        firstCardId = trelloApiClient.createCard(firstCardName, boardId).jsonPath().getString("id");
+        Response firstCardResponse = trelloApiClient.createCard(firstCardName, boardId);
+        assertEquals(200, firstCardResponse.statusCode());
+        firstCardId = firstCardResponse.jsonPath().getString("id");
         logger.info("A card is created. Card ID: " + firstCardId + " and " + firstCardName);
-        secondCardId = trelloApiClient.createCard(secondCardName, boardId).jsonPath().getString("id");
+        Response secondCardResponse = trelloApiClient.createCard(secondCardName, boardId);
+        assertEquals(200, secondCardResponse.statusCode());
+        secondCardId = secondCardResponse.jsonPath().getString("id");
         logger.info("A card is created. Card ID: " + secondCardId + " and " + secondCardName);
     }
 
