@@ -1,0 +1,31 @@
+2025-02-15 21:49:27 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e1b62f3f82e5f2f94a23and Testinium
+2025-02-15 21:49:56 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e1d3cdd9199022627226 and Testinium
+2025-02-15 21:50:07 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e1de26131129d93ddff7 and Testinium
+2025-02-15 21:53:07 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e292d5818b7e51a1c38a and Board Name: Testinium
+2025-02-15 21:53:59 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e2c6bae3231ab5d5cd18 and Board Name: Testinium
+2025-02-15 21:56:46 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e36d729c298519788237 and Board Name: Testinium
+2025-02-15 21:58:49 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e3e88d84e934e4042769 and Testinium
+2025-02-15 22:01:10 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e475d5548d8b38078bf5 and Testinium
+2025-02-15 22:01:11 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e47778e852b8230926fa and First Card
+2025-02-15 22:01:12 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e4777c898fc845dc849f and Second Card
+2025-02-15 22:06:11 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e5a2f04e5f8c6752ed5a and Testinium
+2025-02-15 22:06:12 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e5a4d217304ac464f071 and First Card
+2025-02-15 22:06:13 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e5a401aa5310ba18f706 and Second Card
+2025-02-15 22:06:13 [main] INFO  com.example.trello.TrelloApiTests - 67b0e5a4d217304ac464f071is updated and its new name is Updated Random Card
+2025-02-15 22:06:13 [main] INFO  com.example.trello.TrelloApiTests - null is deleted
+2025-02-15 22:06:14 [main] INFO  com.example.trello.TrelloApiTests - null is deleted
+2025-02-15 22:06:15 [main] INFO  com.example.trello.TrelloApiTests - Board null is deleted
+2025-02-15 22:08:18 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e621228c0e3ea4e3e391 and Testinium
+2025-02-15 22:08:19 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e6226153653af013752c and First Card
+2025-02-15 22:08:19 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e62305068ff543d9e2cf and Second Card
+2025-02-15 22:08:19 [main] INFO  com.example.trello.TrelloApiTests - 67b0e6226153653af013752cis updated and its new name is Updated Random Card
+2025-02-15 22:08:20 [main] INFO  com.example.trello.TrelloApiTests - The card id: 67b0e6226153653af013752c is deleted
+2025-02-15 22:08:21 [main] INFO  com.example.trello.TrelloApiTests - The card id: 67b0e62305068ff543d9e2cf is deleted
+2025-02-15 22:08:22 [main] INFO  com.example.trello.TrelloApiTests - Board is deleted
+2025-02-15 22:15:58 [main] INFO  com.example.trello.TrelloApiTests - A board is created. Board ID: 67b0e7edc3cd1cf90ce03a54 and Testinium
+2025-02-15 22:15:58 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e7eeb63aa7d0f0a31371 and First Card
+2025-02-15 22:15:59 [main] INFO  com.example.trello.TrelloApiTests - A card is created. Card ID: 67b0e7efeb2ca3f4da0d9d81 and Second Card
+2025-02-15 22:15:59 [main] INFO  com.example.trello.TrelloApiTests - 67b0e7eeb63aa7d0f0a31371is updated and its new name is Updated Random Card
+2025-02-15 22:16:00 [main] INFO  com.example.trello.TrelloApiTests - The card id: 67b0e7eeb63aa7d0f0a31371 is deleted
+2025-02-15 22:16:01 [main] INFO  com.example.trello.TrelloApiTests - The card id: 67b0e7efeb2ca3f4da0d9d81 is deleted
+2025-02-15 22:16:02 [main] INFO  com.example.trello.TrelloApiTests - Board is deleted
